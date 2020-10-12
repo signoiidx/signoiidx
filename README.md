@@ -8,6 +8,6 @@
 - 📫 How to reach me: Find your preferred method from signoiidx.github.io
 - 😄 Pronouns: he/him
 
-![signoiidx's github stats](https://github-readme-stats.vercel.app/api?username=signoiidx&theme=monokai&show_icons=true)
+<!-- ![signoiidx's github stats](https://github-readme-stats.vercel.app/api?username=signoiidx&theme=monokai&show_icons=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=signoiidx&theme=monokai)
