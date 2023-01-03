@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on research at the university (won't tell you!)
-- 🌱 I’m currently learning MATLAB and Python3
+- 🌱 I’m currently learning C++ and python3
 - 👯 I’m looking to collaborate on a quantitative evaluation of the music game topic.
 - 🤔 I’m looking for help with coding skills.
 - 💬 Ask me about: some kind of music games?
