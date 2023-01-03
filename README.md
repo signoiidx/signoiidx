@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on research at the university (won't tell you!)
+- 🔭 I’m currently working on windows application development (won't tell you where and what!)
 - 🌱 I’m currently learning C++ and python3
 - 👯 I’m looking to collaborate on a quantitative evaluation of the music game topic.
 - 🤔 I’m looking for help with coding skills.
